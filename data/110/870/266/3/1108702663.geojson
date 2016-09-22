@@ -1,0 +1,86 @@
+{
+  "id": 1108702663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-58.3667319,-34.6070993,-58.3667319,-34.6070993",
+    "geom:latitude":-34.607099,
+    "geom:longitude":-58.366732,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Alicia M. de Justo 846 4th floor, Suite 18",
+    "sg:city":"Puerto Madero",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1107",
+    "sg:tags":[
+        "open-source",
+        "crm",
+        "etl",
+        "integration",
+        "software",
+        "solution",
+        "collaboration",
+        "groupware"
+    ],
+    "sg:website":"http://www.codeglide.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85668081,
+        102191577,
+        85632505,
+        85765603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Vu26WSnnY0TgqFsBVRjE0_-34.607099_-58.366732@1308163240"
+    },
+    "wof:country":"AR",
+    "wof:created":1474570874,
+    "wof:geomhash":"ba6a663947e5238a8222a4b8fba4d281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85765603,
+            "region_id":85668081,
+            "venue_id":1108702663
+        }
+    ],
+    "wof:id":1108702663,
+    "wof:lastmodified":1474570874,
+    "wof:name":"CodeGlide",
+    "wof:parent_id":85765603,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "open-source",
+        "crm",
+        "etl",
+        "integration",
+        "software",
+        "solution",
+        "collaboration",
+        "groupware"
+    ]
+},
+  "bbox": [
+    -58.3667319,
+    -34.6070993,
+    -58.3667319,
+    -34.6070993
+],
+  "geometry": {"coordinates":[-58.3667319,-34.6070993],"type":"Point"}
+}

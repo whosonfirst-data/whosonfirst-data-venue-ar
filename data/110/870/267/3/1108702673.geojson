@@ -1,0 +1,80 @@
+{
+  "id": 1108702673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.198808,13.691061,-89.198808,13.691061",
+    "geom:latitude":13.691061,
+    "geom:longitude":-89.198808,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Santa Fe 3233 2\u00ba 23",
+    "sg:city":"Buenos Aires",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1425",
+    "sg:tags":[
+        "linksharing",
+        "social-comunity",
+        "latin-america",
+        "latam",
+        "argentina",
+        "piracy",
+        "riaa"
+    ],
+    "sg:website":"http://taringa.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632545,
+        85793833,
+        85677163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uZmXOWNLrPTDfDlWFCQCu_13.691061_-89.198808@1308163238"
+    },
+    "wof:country":"AR",
+    "wof:created":1474570874,
+    "wof:geomhash":"9fcf5aa86aa8821d241bbce2a446edd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "neighbourhood_id":85793833,
+            "region_id":85677163,
+            "venue_id":1108702673
+        }
+    ],
+    "wof:id":1108702673,
+    "wof:lastmodified":1474570874,
+    "wof:name":"Taringa!",
+    "wof:parent_id":85793833,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "linksharing",
+        "social-comunity",
+        "latin-america",
+        "latam",
+        "argentina",
+        "piracy",
+        "riaa"
+    ]
+},
+  "bbox": [
+    -89.198808,
+    13.691061,
+    -89.198808,
+    13.691061
+],
+  "geometry": {"coordinates":[-89.198808,13.691061],"type":"Point"}
+}

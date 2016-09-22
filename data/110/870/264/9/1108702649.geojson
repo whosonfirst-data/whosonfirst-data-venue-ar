@@ -1,0 +1,52 @@
+{
+  "id": 1108702649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.8752738,-32.9701137,-68.8752738,-32.9701137",
+    "geom:latitude":-32.970114,
+    "geom:longitude":-68.875274,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Darragueira 7097",
+    "sg:city":"Lujan de Cuyo, Mendoza",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"5517",
+    "sg:website":"http://www.belatrixsf.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AJXQix4DwaMXylF7UxDjX_-32.970114_-68.875274@1308163239"
+    },
+    "wof:country":"AR",
+    "wof:created":1474570873,
+    "wof:geomhash":"21935c7e127de3ce4cfda0cd54a3f1eb",
+    "wof:hierarchy":[],
+    "wof:id":1108702649,
+    "wof:lastmodified":1474570873,
+    "wof:name":"Belatrix Software Factory",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.8752738,
+    -32.9701137,
+    -68.8752738,
+    -32.9701137
+],
+  "geometry": {"coordinates":[-68.8752738,-32.9701137],"type":"Point"}
+}

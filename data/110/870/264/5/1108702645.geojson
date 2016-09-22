@@ -1,0 +1,88 @@
+{
+  "id": 1108702645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-58.434789,-34.5892412,-58.434789,-34.5892412",
+    "geom:latitude":-34.589241,
+    "geom:longitude":-58.434789,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Uriarte 1337",
+    "sg:city":"Buenos Aires",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1425",
+    "sg:tags":[
+        "advertisign",
+        "agency",
+        "digital",
+        "iphone",
+        "interactive",
+        "banners",
+        "website",
+        "hotsite",
+        "rich-media"
+    ],
+    "sg:website":"http://www.woonky.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85668081,
+        102191577,
+        85632505,
+        85764307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62pXIQzS90WDXljMEvbfu8_-34.589241_-58.434789@1308163239"
+    },
+    "wof:country":"AR",
+    "wof:created":1474570873,
+    "wof:geomhash":"1966a3f450a2a4bb9affc0f590b677d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85764307,
+            "region_id":85668081,
+            "venue_id":1108702645
+        }
+    ],
+    "wof:id":1108702645,
+    "wof:lastmodified":1474570873,
+    "wof:name":"Woonky",
+    "wof:parent_id":85764307,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advertisign",
+        "agency",
+        "digital",
+        "iphone",
+        "interactive",
+        "banners",
+        "website",
+        "hotsite",
+        "rich-media"
+    ]
+},
+  "bbox": [
+    -58.434789,
+    -34.5892412,
+    -58.434789,
+    -34.5892412
+],
+  "geometry": {"coordinates":[-58.434789,-34.5892412],"type":"Point"}
+}

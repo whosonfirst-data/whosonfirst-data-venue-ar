@@ -1,0 +1,65 @@
+{
+  "id": 1108702661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-57.560505,-37.9951718,-57.560505,-37.9951718",
+    "geom:latitude":-37.995172,
+    "geom:longitude":-57.560505,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dorrego 1940 Torre C - 2th H",
+    "sg:city":"Buenos Aires",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1425",
+    "sg:tags":[
+        "web-2-0",
+        "web-services",
+        "generator-of-ideas",
+        "content-producer",
+        "community-creators"
+    ],
+    "sg:website":"http://www.dreamdesigners.com.ar",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mOpEjqcKSQo5PTnIDoSrG_-37.995172_-57.560505@1308163240"
+    },
+    "wof:country":"AR",
+    "wof:created":1474570873,
+    "wof:geomhash":"8ef95266495c95bfa8c9f394703a13ba",
+    "wof:hierarchy":[],
+    "wof:id":1108702661,
+    "wof:lastmodified":1474570873,
+    "wof:name":"DreamDesigners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web-2-0",
+        "web-services",
+        "generator-of-ideas",
+        "content-producer",
+        "community-creators"
+    ]
+},
+  "bbox": [
+    -57.560505,
+    -37.9951718,
+    -57.560505,
+    -37.9951718
+],
+  "geometry": {"coordinates":[-57.560505,-37.9951718],"type":"Point"}
+}

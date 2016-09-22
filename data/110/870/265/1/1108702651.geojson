@@ -1,0 +1,61 @@
+{
+  "id": 1108702651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.8790848,-33.0408929,-68.8790848,-33.0408929",
+    "geom:latitude":-33.040893,
+    "geom:longitude":-68.879085,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "sg:address":"9 de Julio 174",
+    "sg:city":"Mendoza",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"5500",
+    "sg:tags":[
+        "net-framework",
+        "c",
+        "web-solutions"
+    ],
+    "sg:website":"http://www.powersolution.com.ar",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GruqTx6R37qiKsK4Ox2MZ_-33.040893_-68.879085@1308163239"
+    },
+    "wof:country":"AR",
+    "wof:created":1474570873,
+    "wof:geomhash":"86c52737f7e993761c1bfe572251573d",
+    "wof:hierarchy":[],
+    "wof:id":1108702651,
+    "wof:lastmodified":1474570873,
+    "wof:name":"Power Solution S.A.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "net-framework",
+        "c",
+        "web-solutions"
+    ]
+},
+  "bbox": [
+    -68.8790848,
+    -33.0408929,
+    -68.8790848,
+    -33.0408929
+],
+  "geometry": {"coordinates":[-68.8790848,-33.0408929],"type":"Point"}
+}

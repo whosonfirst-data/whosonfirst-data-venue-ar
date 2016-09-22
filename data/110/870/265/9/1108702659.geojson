@@ -1,0 +1,65 @@
+{
+  "id": 1108702659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-58.3096537,-34.7137168,-58.3096537,-34.7137168",
+    "geom:latitude":-34.713717,
+    "geom:longitude":-58.309654,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Piran 6000",
+    "sg:city":"Capital Federal",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1414",
+    "sg:tags":[
+        "outlet",
+        "club",
+        "shopping",
+        "brand",
+        "brands"
+    ],
+    "sg:website":"http://www.geelbe.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QBTq8lSAWaEWPiswxTUlx_-34.713717_-58.309654@1308163240"
+    },
+    "wof:country":"AR",
+    "wof:created":1474570873,
+    "wof:geomhash":"c2dbfce5693b3c33564a91c214c64651",
+    "wof:hierarchy":[],
+    "wof:id":1108702659,
+    "wof:lastmodified":1474570873,
+    "wof:name":"Geelbe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outlet",
+        "club",
+        "shopping",
+        "brand",
+        "brands"
+    ]
+},
+  "bbox": [
+    -58.3096537,
+    -34.7137168,
+    -58.3096537,
+    -34.7137168
+],
+  "geometry": {"coordinates":[-58.3096537,-34.7137168],"type":"Point"}
+}

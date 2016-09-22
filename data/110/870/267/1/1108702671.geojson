@@ -1,0 +1,67 @@
+{
+  "id": 1108702671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-58.4541925,-34.5631882,-58.4541925,-34.5631882",
+    "geom:latitude":-34.563188,
+    "geom:longitude":-58.454192,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vuelta de Obligado 1918 Piso 6B",
+    "sg:city":"Capital Federal",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1428 ",
+    "sg:website":"http://www.pontis.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85668081,
+        102191577,
+        85632505,
+        85764061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iTWTZG1rjRJVqueucPYFy_-34.563188_-58.454192@1308163241"
+    },
+    "wof:country":"AR",
+    "wof:created":1474570874,
+    "wof:geomhash":"e84f53b3ac14c4fefa8642bb3f7b7dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85764061,
+            "region_id":85668081,
+            "venue_id":1108702671
+        }
+    ],
+    "wof:id":1108702671,
+    "wof:lastmodified":1474570874,
+    "wof:name":"Pontis",
+    "wof:parent_id":85764061,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.4541925,
+    -34.5631882,
+    -58.4541925,
+    -34.5631882
+],
+  "geometry": {"coordinates":[-58.4541925,-34.5631882],"type":"Point"}
+}

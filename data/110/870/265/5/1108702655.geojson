@@ -1,0 +1,88 @@
+{
+  "id": 1108702655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-58.5128212,-34.4725563,-58.5128212,-34.4725563",
+    "geom:latitude":-34.472556,
+    "geom:longitude":-58.512821,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cosme Beccar 145, of 7 Cosme Beccar 145, of 8",
+    "sg:city":"San Isidro",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1646",
+    "sg:tags":[
+        "internet-marketing",
+        "website-design",
+        "outsourcing",
+        "email-marketing",
+        "sponsored-links",
+        "search-engine-optimization",
+        "adwords",
+        "surveys",
+        "promotions-and-online-games"
+    ],
+    "sg:website":"http://www.adverit.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85668081,
+        102191577,
+        85632505,
+        85764259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r1FPmb9miloGgFFMsFKEv_-34.472556_-58.512821@1308163240"
+    },
+    "wof:country":"AR",
+    "wof:created":1474570873,
+    "wof:geomhash":"c1ac138fd9243b898bdadc92dce5cb66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85764259,
+            "region_id":85668081,
+            "venue_id":1108702655
+        }
+    ],
+    "wof:id":1108702655,
+    "wof:lastmodified":1474570873,
+    "wof:name":"AdVerit",
+    "wof:parent_id":85764259,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet-marketing",
+        "website-design",
+        "outsourcing",
+        "email-marketing",
+        "sponsored-links",
+        "search-engine-optimization",
+        "adwords",
+        "surveys",
+        "promotions-and-online-games"
+    ]
+},
+  "bbox": [
+    -58.5128212,
+    -34.4725563,
+    -58.5128212,
+    -34.4725563
+],
+  "geometry": {"coordinates":[-58.5128212,-34.4725563],"type":"Point"}
+}

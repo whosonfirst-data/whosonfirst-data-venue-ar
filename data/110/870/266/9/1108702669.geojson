@@ -1,0 +1,76 @@
+{
+  "id": 1108702669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-58.3714797,-34.6200334,-58.3714797,-34.6200334",
+    "geom:latitude":-34.620033,
+    "geom:longitude":-58.37148,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Defensa 825",
+    "sg:city":"Buenos Aires",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1065",
+    "sg:tags":[
+        "agribusiness",
+        "agronegocios",
+        "internet"
+    ],
+    "sg:website":"http://www.farmsphere.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85668081,
+        102191577,
+        85632505,
+        85764289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yk9QlZ6O80nzceSV0w6p4_-34.620033_-58.371480@1308163241"
+    },
+    "wof:country":"AR",
+    "wof:created":1474570874,
+    "wof:geomhash":"2c0125a5986bb0df92391e4265c9a669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85764289,
+            "region_id":85668081,
+            "venue_id":1108702669
+        }
+    ],
+    "wof:id":1108702669,
+    "wof:lastmodified":1474570874,
+    "wof:name":"Farmsphere Inc.",
+    "wof:parent_id":85764289,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agribusiness",
+        "agronegocios",
+        "internet"
+    ]
+},
+  "bbox": [
+    -58.3714797,
+    -34.6200334,
+    -58.3714797,
+    -34.6200334
+],
+  "geometry": {"coordinates":[-58.3714797,-34.6200334],"type":"Point"}
+}
